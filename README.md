@@ -1,7 +1,7 @@
 # Bykeyboard PC program
 
 The Windows program for Bykeyboard, the Android app that turns a phone or tablet into a keyboard and trackpad for a
-Windows PC. The program is needed for the Wi-Fi and USB cable modes; the Bluetooth mode needs no program.
+Windows PC. The program is needed for the Wi-Fi mode; the Bluetooth mode needs no program.
 
 - Download: `Bykeyboard-PC.zip` under [Releases](https://github.com/promm-1i/bykeyboard/releases/latest)
 - Setup guide: https://noveriq.co.kr/bykeyboard/en/ (한국어: https://noveriq.co.kr/bykeyboard/)
